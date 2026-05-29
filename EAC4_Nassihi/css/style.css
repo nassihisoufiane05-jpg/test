@@ -1,0 +1,25 @@
+body {
+    background: url('../images/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+}
+
+.wide-card {
+    width: 60%;
+}
+
+.card-title {
+    font-size: 1.5rem; 
+}
+
+.form-label{
+    font-weight: bold;
+}
+form {
+    color: white;
+}
